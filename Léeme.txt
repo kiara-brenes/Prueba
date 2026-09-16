@@ -1,0 +1,2 @@
+La idea sería que con el ejemplo de Acta y con la Convocatoria CI-92-2026, se pueda hacer un acta para la reunión 92 seguiendo el modelo y con la trasncripción del audio. Me falta conseguir el audio de esa reunión 92, ya que no lo tengo.
+Habría que hacer un prompt para esto.
